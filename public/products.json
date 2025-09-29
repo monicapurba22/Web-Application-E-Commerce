@@ -1,0 +1,155 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "desc": "Laptop untuk kerja dan gaming",
+    "category": "Elektronik",
+    "price": 12000000,
+    "image": "/assets/laptop.jpg",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "name": "HP",
+    "desc": "Smartphone terbaru",
+    "category": "Elektronik",
+    "price": 4500000,
+    "image": "/assets/samsung.png",
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "name": "Headphone",
+    "desc": "Headphone bass mantap",
+    "category": "Elektronik",
+    "price": 750000,
+    "image": "/assets/headphones.jpg",
+    "rating": 4
+  },
+  {
+    "id": 4,
+    "name": "Mouse",
+    "desc": "Mouse wireless",
+    "category": "Elektronik",
+    "price": 250000,
+    "image": "/assets/mouse.jpg",
+    "rating": 3
+  },
+  {
+    "id": 5,
+    "name": "iPad",
+    "desc": "Tablet serbaguna",
+    "category": "Elektronik",
+    "price": 6500000,
+    "image": "/assets/iPad.jpg",
+    "rating": 5
+  },
+  {
+    "id": 6,
+    "name": "Speaker",
+    "desc": "Speaker bluetooth portable",
+    "category": "Elektronik",
+    "price": 1200000,
+    "image": "/assets/speakers.jpg",
+    "rating": 4
+  },
+  {
+    "id": 7,
+    "name": "Kaos",
+    "desc": "Kaos katun nyaman",
+    "category": "Fashion",
+    "price": 75000,
+    "image": "/assets/kaos.jpeg",
+    "rating": 4
+  },
+  {
+    "id": 8,
+    "name": "Celana",
+    "desc": "Celana jeans keren",
+    "category": "Fashion",
+    "price": 200000,
+    "image": "/assets/celana-jeans.jpeg",
+    "rating": 4
+  },
+  {
+    "id": 9,
+    "name": "Sepatu",
+    "desc": "Sepatu sport stylish",
+    "category": "Fashion",
+    "price": 350000,
+    "image": "/assets/sepatu.jpg",
+    "rating": 5
+  },
+  {
+    "id": 10,
+    "name": "Jaket",
+    "desc": "Jaket hangat",
+    "category": "Fashion",
+    "price": 400000,
+    "image": "/assets/jaket.jpg",
+    "rating": 4
+  },
+  {
+    "id": 11,
+    "name": "Tas",
+    "desc": "Tas ransel multifungsi",
+    "category": "Fashion",
+    "price": 250000,
+    "image": "/assets/tas-ransel.jpeg",
+    "rating": 3
+  },
+  {
+    "id": 12,
+    "name": "Jam Tangan",
+    "desc": "Jam tangan elegan",
+    "category": "Fashion",
+    "price": 1500000,
+    "image": "/assets/jam-tangan.jpg",
+    "rating": 5
+  },
+  {
+    "id": 13,
+    "name": "Lipstik",
+    "desc": "Lipstik matte tahan lama",
+    "category": "Kecantikan",
+    "price": 120000,
+    "image": "/assets/lipstik.jpg",
+    "rating": 4
+  },
+  {
+    "id": 14,
+    "name": "Sunscreen",
+    "desc": "Sunscreen SPF 50",
+    "category": "Kecantikan",
+    "price": 95000,
+    "image": "/assets/sunscreen.png",
+    "rating": 5
+  },
+  {
+    "id": 15,
+    "name": "Eyeliner",
+    "desc": "Eyeliner waterproof",
+    "category": "Kecantikan",
+    "price": 60000,
+    "image": "/assets/eyeliner.png",
+    "rating": 3
+  },
+  {
+    "id": 16,
+    "name": "Primer",
+    "desc": "Primer untuk makeup flawless",
+    "category": "Kecantikan",
+    "price": 150000,
+    "image": "/assets/primer.jpg",
+    "rating": 4
+  },
+  {
+    "id": 17,
+    "name": "Toner",
+    "desc": "Toner wajah segar",
+    "category": "Kecantikan",
+    "price": 85000,
+    "image": "/assets/toner.jpg",
+    "rating": 4
+  }
+]
